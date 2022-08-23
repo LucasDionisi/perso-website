@@ -1,0 +1,2 @@
+RewriteCond %{HTTP_HOST} ^lucas.dionisi.pro$ [NC]
+RewriteRule (.*) http://www.lucas.dionisi.pro [R=301,L] 
