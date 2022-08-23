@@ -1291,4 +1291,21 @@ input[type="text"] {
   opacity: 0;
 }
 
+.realizations {
+  display: flex;
+}
+
+.realizations .row {
+  margin: 0;
+  margin-right: 1em;
+}
+
+.realizations a.work {
+  width: 270px;
+}
+
+.realizations .desc {
+  padding: 1em;
+}
+
 /*# sourceMappingURL=style.css.map */
