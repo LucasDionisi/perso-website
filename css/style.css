@@ -1297,6 +1297,12 @@ input[type="text"] {
   align-items: center;
 }
 
+.container.real h2 {
+  color: white;
+  font-size: 4rem;
+  margin-bottom: 5rem;
+}
+
 .realizations {
   display: flex;
   justify-content: center;
