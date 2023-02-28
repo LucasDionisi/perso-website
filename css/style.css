@@ -1326,3 +1326,11 @@ input[type="text"] {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+#btn-cv {
+  margin: 2em 0;
+}
+
+.justify {
+  text-align: justify;
+}
